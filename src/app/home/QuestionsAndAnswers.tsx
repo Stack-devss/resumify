@@ -97,9 +97,9 @@ const QAS = [
           The best way to support Resumify is to share your thoughts and
           feedback with us to help further improve it. You can send us an email
           at{" "}
-          <Link href="mailto:hello@open-resume.com">hello@open-resume.com</Link>{" "}
+          <Link href="mailto:hello@resumify.store">hello@resumify.store</Link>{" "}
           or{" "}
-          <Link href="https://github.com/xitanggg/open-resume/issues/new">
+          <Link href="https://github.com/xitanggg/resumify/issues/new">
             open an issue
           </Link>{" "}
           at our Github repository. Whether you like it or not, we would love to
@@ -112,7 +112,7 @@ const QAS = [
           with creating their resume, and your word-of-mouth support would be
           greatly appreciated. If you use Github, you can also show your support
           by{" "}
-          <Link href="https://github.com/xitanggg/open-resume">
+          <Link href="https://github.com/xitanggg/resumify">
             giving the project a star
           </Link>{" "}
           to help increase its popularity and reach.

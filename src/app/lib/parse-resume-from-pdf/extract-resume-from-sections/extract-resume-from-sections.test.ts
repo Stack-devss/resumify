@@ -19,8 +19,8 @@ describe("extract-profile tests - ", () => {
   });
 
   it("Email", () => {
-    expect(matchEmail(makeTextItem("  hello@open-resume.org  "))![0]).toBe(
-      "hello@open-resume.org"
+    expect(matchEmail(makeTextItem("  hello@resumify.org  "))![0]).toBe(
+      "hello@resumify.org"
     );
   });
 
@@ -31,9 +31,9 @@ describe("extract-profile tests - ", () => {
   });
 
   it("Url", () => {
-    expect(matchUrl(makeTextItem("  linkedin.com/in/open-resume  "))![0]).toBe(
-      "linkedin.com/in/open-resume"
+    expect(matchUrl(makeTextItem("  linkedin.com/in/resumify  "))![0]).toBe(
+      "linkedin.com/in/resumify"
     );
-    expect(matchUrl(makeTextItem("hello@open-resume.org"))).toBeFalsy();
+    expect(matchUrl(makeTextItem("hello@resumify.org"))).toBeFalsy();
   });
 });

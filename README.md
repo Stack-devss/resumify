@@ -4,7 +4,7 @@ Resumify is a powerful open-source resume builder and resume parser.
 
 The goal of Resumify is to provide everyone with free access to a modern professional resume design and enable anyone to apply for jobs with confidence.
 
-Official site: [https://open-resume.com](https://open-resume.com)
+Official site: [https://resumify.store](https://resumify.store)
 
 ## ⚒️ Resume Builder
 
@@ -27,7 +27,7 @@ Resumify’s second component is the resume parser. For those who have an existi
 
 ![Resume Parser Demo](https://i.ibb.co/JvSVwNk/resume-parser-demo-optimize.gif)
 
-You can learn more about the resume parser algorithm in the ["Resume Parser Algorithm Deep Dive" section](https://open-resume.com/resume-parser).
+You can learn more about the resume parser algorithm in the ["Resume Parser Algorithm Deep Dive" section](https://resumify.store/resume-parser).
 
 ## 📚 Tech Stack
 
@@ -56,16 +56,16 @@ Resumify is created with the NextJS web framework and follows its project struct
 
 ### Method 1: npm
 
-1. Download the repo `git clone https://github.com/xitanggg/open-resume.git`
-2. Change the directory `cd open-resume`
+1. Download the repo `git clone https://github.com/xitanggg/resumify.git`
+2. Change the directory `cd resumify`
 3. Install the dependency `npm install`
 4. Start a development server `npm run dev`
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see Resumify live
 
 ### Method 2: Docker
 
-1. Download the repo `git clone https://github.com/xitanggg/open-resume.git`
-2. Change the directory `cd open-resume`
-3. Build the container `docker build -t open-resume .`
-4. Start the container `docker run -p 3000:3000 open-resume`
+1. Download the repo `git clone https://github.com/xitanggg/resumify.git`
+2. Change the directory `cd resumify`
+3. Build the container `docker build -t resumify .`
+4. Start the container `docker run -p 3000:3000 resumify`
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see Resumify live
