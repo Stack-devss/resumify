@@ -349,7 +349,7 @@ export const ResumeParserAlgorithmArticle = ({
         And that is everything about the Resumify parser algorithm :)
       </Paragraph>
       <Paragraph>
-        Written by <Link href="https://github.com/xitanggg">Xitang</Link> on
+        Written by <Link href="https://github.com/stack-devss">Xitang</Link> on
         June 2023
       </Paragraph>
     </article>

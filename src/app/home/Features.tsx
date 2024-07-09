@@ -28,7 +28,7 @@ const FEATURES = [
       <>
         Resumify is an open-source project, and its source code can be viewed
         by anyone on its{" "}
-        <Link href="https://github.com/xitanggg/resumify">
+        <Link href="https://github.com/stack-devss/resumify">
           GitHub repository
         </Link>
       </>

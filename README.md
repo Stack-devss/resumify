@@ -56,7 +56,7 @@ Resumify is created with the NextJS web framework and follows its project struct
 
 ### Method 1: npm
 
-1. Download the repo `git clone https://github.com/xitanggg/resumify.git`
+1. Download the repo `git clone https://github.com/stack-devss/resumify.git`
 2. Change the directory `cd resumify`
 3. Install the dependency `npm install`
 4. Start a development server `npm run dev`
@@ -64,7 +64,7 @@ Resumify is created with the NextJS web framework and follows its project struct
 
 ### Method 2: Docker
 
-1. Download the repo `git clone https://github.com/xitanggg/resumify.git`
+1. Download the repo `git clone https://github.com/stack-devss/resumify.git`
 2. Change the directory `cd resumify`
 3. Build the container `docker build -t resumify .`
 4. Start the container `docker run -p 3000:3000 resumify`
